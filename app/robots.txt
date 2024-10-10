@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://hijabtobrutcolmek.pages.dev/sitemap.xml
